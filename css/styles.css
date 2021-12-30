@@ -1,0 +1,72 @@
+body {
+    height: 1200px;
+}
+
+header {
+    background-color: red;
+    height: 7%;
+}
+
+#logo {
+    background-color: black;
+}
+
+nav {
+    background-color: orange;
+}
+
+
+
+
+
+main {
+    background-color: greenyellow;
+    height: 60%;
+}
+
+#hero {
+    background-color: gray;
+    background-image: url(../images/p_img/ice_cream.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 50%;
+}
+
+#products {
+    background-color: green;
+    height: 50%;
+}
+
+#toSabores {
+    background-color: seagreen;
+}
+
+#toPostres {
+    background-color: darkgreen;
+}
+
+
+
+
+
+footer {
+    background-color: blue;
+    height: 33%;
+}
+
+#newsletter {
+    background-color: skyblue;
+    height: 60%;
+}
+
+#social {
+    background-color: violet;
+    margin: 0;
+    height: 30%;
+}
+
+#rights {
+    background-color: purple;
+    height: 10%;
+}
